@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_ts=self.webpackChunkgatsby_starter_ts||[]).push([[691],{2365:function(e,t,n){n.r(t),n.d(t,{default:function(){return u}});var r=n(7294),l=function(e){var t=e.children;return r.createElement("h1",null,t)},u=function(){return r.createElement("main",null,r.createElement(l,null,"Patrick Esson"),r.createElement("p",null,"Code monkey"))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-53af0c50a117a4b318fb.js.map
